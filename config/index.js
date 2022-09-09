@@ -47,9 +47,9 @@ export const config = {
       // 想要发送的人的名字
       name: "刘大圆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oGodU6pIq4N9PZdD7swdPJ8apGJY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "XvWcQK3NiwbXdxdhRliYibr5vouvAlxkoQHYfi6eUvo",
+      useTemplateId: "dEohWCu-00OATNShiVLKw8VO-qNuyzW9bKhXbngmMLQ",
       // 所在省份
       province: "四川",
       // 所在城市
